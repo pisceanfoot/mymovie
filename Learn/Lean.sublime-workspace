@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dirbot-master/dirbot/spiders/dmoz.py",
+			"settings":
+			{
+				"buffer_size": 1106,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dirbot-master/scrapy.cfg",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test1/myproject/myproject/spiders/mydomain.py",
+			"settings":
+			{
+				"buffer_size": 796,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test1/myproject/myproject/spiders/myspider.py",
+			"settings":
+			{
+				"buffer_size": 798,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test1/myproject/myproject/spiders/__init__.py",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Workspace/Python/Movie/Learn/dirbot-master/dirbot/spiders/__init__.py",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/Books",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/Resources",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.1-py2.7.egg/scrapy/core/downloader/handlers/__init__.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.1-py2.7.egg/scrapy/core/downloader/handlers/s3.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.1-py2.7.egg/scrapy/utils/misc.py",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/spiders/dmoz_spider.py",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/pipelines.py",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/items.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.0-py2.7.egg/scrapy/cmdline.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.0-py2.7.egg/scrapy/utils/misc.py",
+		"/D/scrapy/install.sh",
+		"/E/gDownload/pptpd.sh",
+		"/E/Workspace/Python/DNS/README.md",
+		"/D/tcpdns/uninstall_service.bat",
+		"/D/tcpdns/run_hidden.py",
+		"/D/tcpdns/install_service.bat",
+		"/E/Workspace/Python/DNS/tcpdns.py",
+		"/E/Workspace/Python/test_helloworld.py",
+		"/D/tcpdns/AutoRunHidden.exe - 快捷方式.lnk",
+		"/E/Workspace/Python/build.py",
+		"/D/tcpdns/unicodedata.pyd",
+		"/D/tcpdns/select.pyd",
+		"/C/Users/Heclei/Desktop/Noname1.html",
+		"/C/Users/Heclei/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/ect",
+		"/D/DevTools/Sublime Text 2/sublime_text - 副本.exe"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"load_object",
+			", .*,>",
+			"<@",
+			"DHOSTS",
+			"3342"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"@"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dirbot-master/dirbot/spiders/dmoz.py",
+					"settings":
+					{
+						"buffer_size": 1106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								854
+							]
+						],
+						"settings":
+						{
+							"is_preview": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dirbot-master/scrapy.cfg",
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test1/myproject/myproject/spiders/mydomain.py",
+					"settings":
+					{
+						"buffer_size": 796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test1/myproject/myproject/spiders/myspider.py",
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test1/myproject/myproject/spiders/__init__.py",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tutorial/tutorial/spiders/dmoz_spider.py",
+			"settings":
+			{
+				"buffer_size": 872,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tutorial/tutorial/items.py",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/Books",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/Resources",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.1-py2.7.egg/scrapy/core/downloader/handlers/__init__.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.1-py2.7.egg/scrapy/core/downloader/handlers/s3.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.1-py2.7.egg/scrapy/utils/misc.py",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/spiders/dmoz_spider.py",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/pipelines.py",
+		"/E/Workspace/Python/Movie/Scrapy/tutorial/tutorial/items.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.0-py2.7.egg/scrapy/cmdline.py",
+		"/C/Python2.7/Lib/site-packages/scrapy-0.20.0-py2.7.egg/scrapy/utils/misc.py",
+		"/D/scrapy/install.sh",
+		"/E/gDownload/pptpd.sh",
+		"/E/Workspace/Python/DNS/README.md",
+		"/D/tcpdns/uninstall_service.bat",
+		"/D/tcpdns/run_hidden.py",
+		"/D/tcpdns/install_service.bat",
+		"/E/Workspace/Python/DNS/tcpdns.py",
+		"/E/Workspace/Python/test_helloworld.py",
+		"/D/tcpdns/AutoRunHidden.exe - 快捷方式.lnk",
+		"/E/Workspace/Python/build.py",
+		"/D/tcpdns/unicodedata.pyd",
+		"/D/tcpdns/select.pyd",
+		"/C/Users/Heclei/Desktop/Noname1.html",
+		"/C/Users/Heclei/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/ect",
+		"/D/DevTools/Sublime Text 2/sublime_text - 副本.exe"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"load_object",
+			", .*,>",
+			"<@",
+			"DHOSTS",
+			"3342"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"@"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tutorial/tutorial/spiders/dmoz_spider.py",
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tutorial/tutorial/items.py",
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								182
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
